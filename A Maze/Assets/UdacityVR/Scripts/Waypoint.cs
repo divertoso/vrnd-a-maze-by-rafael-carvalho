@@ -131,6 +131,7 @@ public class Waypoint : MonoBehaviour
 
 	public void Click()
 	{
+        print("ddddddddddddddd");
 		_state = _state == State.Focused ? State.Clicked : _state;
 		
 		_audio_source.Play();
