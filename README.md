@@ -5,6 +5,8 @@ Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr)
 - Course: VR Software Development
 - Project: A Maze
 - Platform: Android
+![maze-smartphone](https://user-images.githubusercontent.com/13722768/50551630-1bdccd00-0c6b-11e9-8e4f-e5ffeede6788.png)
+
 
 ### Versions Used
 - [Unity LTS Release 2017.4.15](https://unity3d.com/unity/qa/lts-releases?version=2017.4)
